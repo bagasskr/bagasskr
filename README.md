@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
+Perkenalkan nama saya **Muhamad Bagaskara**.<br>
+Saya seorang Mahasiswa **Teknik Elektro** di [Universitas Sultan Ageng Tirtayasa](https://untirta.ac.id/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-bagaskara/)ku ya.
 <!--
 **bagasskr/bagasskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
